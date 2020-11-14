@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Substation">
+        <g id="Substation-2" data-name="Substation">
+          <g id="New_Symbol" data-name="New Symbol">
+            <g>
+              <rect width="16" height="16" fill="none"/>
+              <path d="M12.5,5.6v5.9a.5.5,0,0,1-.5.5H4a.5.5,0,0,1-.5-.5V5.6" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+              <polyline points="2 6.464 8 3 14 6.464" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+              <rect x="6.5" y="7" width="3" height="5" fill="#fff"/>
+              <line x1="11" y1="5" x2="11" y2="2" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
